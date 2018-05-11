@@ -98,5 +98,6 @@ public class GameManager1 : MonoBehaviour {
 	{
 		level++;
 		InitGame ();//初始化游戏
+		
 	}
 }
